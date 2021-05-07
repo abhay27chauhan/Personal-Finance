@@ -16,9 +16,9 @@ From this, we can infer –
 3. Investments are predominantly in the small market capitalisation companies, which means as the fund name suggests, they look at investments in the small-cap company
 
 
-4. Benchmark: A mutual fund scheme should essentially benchmark itself to an index. This is required to evaluate the performance of the fund over a period. A mutual fund should have the appropriate benchmark. For example, a small-cap fund is benchmarked against a small-cap index, as in this case. It is almost mis-spelling if the benchmark is not appropriate, for example, a small-cap fund being benchmarked against a large-cap index
+2. Benchmark: A mutual fund scheme should essentially benchmark itself to an index. This is required to evaluate the performance of the fund over a period. A mutual fund should have the appropriate benchmark. For example, a small-cap fund is benchmarked against a small-cap index, as in this case. It is almost mis-spelling if the benchmark is not appropriate, for example, a small-cap fund being benchmarked against a large-cap index
 
-5. Type of scheme:
+3. Type of scheme:
 
 Type in the given pic -> The type is– Open-ended, equity, growth scheme
 
@@ -61,7 +61,7 @@ when the fund manager buys the stock of a company, and the company issues a divi
 
 7. SIP: systematic investment plan - this section tells about minimum requirements to start an SIP. In the given pic, the AMC has specified that the minimum SIP amount every month is Rs.1000/- and the minimum number of months is six.
 
-8. initial minimum investment: self explainatory
+8. Initial Minimum Investment: self explainatory
 
 9. Load Structure: the amount of money, in percentage terms; you will have to pay in case you wish to withdraw from the fund.
 
@@ -72,3 +72,9 @@ there are two types of load structure –
 
 2. Exit load - This is the amount of money you will have to pay at the time of withdrawal. As you can see, there is a 1% load if you wish to withdraw before the completion of 1 year and no-load post that.
 ```
+
+## Riskometer
+
+Every AMC is supposed to self-asses the riskiness of the fund and lets the customers know about this. A small-cap fund should not be packaged as a low-risk fund and sold to the investors.
+
+Remember, the antidote for ‘risk’ in the mutual fund world is ‘time’; hence the longer you stay invested in a mutual fund, the safer it gets.
