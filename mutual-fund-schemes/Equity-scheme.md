@@ -53,4 +53,33 @@ performance in 10 years term - Over the last ten years, the returns range from 7
 
 Important Note - the focused fund is not for someone who is starting his or her mutual fund investment journey. Because the focused fund will be a lot more volatile compared to a diversified mutual fund.
 
-6. Dividend yield funds: 
+6. Dividend yield funds: The strategy involves investing in companies that payout (high)` dividends regularly.
+
+Dividend yield = Dividend paid during the year/ stock price
+
+```
+For example, if Infosys trading at Rs.780/- per share pays a dividend of Rs.22/- for the year, then Infosys’s dividend yield is –
+
+= 22/780
+
+= 2.8%
+```
+
+the fund is predominantly invested i.e. at least 65% in dividend-yielding stocks and rest 35% in may be invested in non-dividend-yielding stocks
+
+benchmark index - Nifty Dividend Opportunity 50
+
+7.  ELSS Funds: The ‘Equity-linked Savings Scheme’ or the ELSS funds are a special category of mutual funds that enjoy tax exemption on investments made under section 80C of the Indian Income-tax Act, 1961.
+
+Section 80C in the income tax act allows you to reduce your tax burden by accommodating for certain investments and payments made during the financial year, the reduction in the tax burden, however, is up to Rs.1,50,000/- per year.
+
+For example, if you have a total gross yearly income of Rs.1,200,000/- then you can choose to invest Rs.1,50,000/- in various 80C options and reduce the tax burden. If you do so, your taxable income reduces to 1,050,000/-.
+
+You can choose to invest either the entire permitted amount of Rs.1,50,000/- in ELSS or split this amount across many different schemes such as Life Insurance, Public Provident Fund, five year FD, Sukanya Smariddi Yojana, etc.
+
+There are two important things to note here –
+
+1. ELSS funds have a mandatory lock-in of 3 years. I guess this the Government’s way of inculcating long term investing behavior 🙂
+2. ELSS funds have a mandate to invest 80% of the funds in equity and equity-related instruments. There is no restriction on the market capitalization of stocks.
+
+ELSS mutual fund, in general, can probably be considered as a proxy for a multi-cap fund.
